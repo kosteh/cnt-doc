@@ -2,6 +2,9 @@ title: Continuity Services
 description: General and Specific documentation for Continuity Services
 theme: just-the-docs
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/continuity.png"
+
 url: https://kosteh.github.io/cnt-doc
 
 aux_links: # remove if you don't want this link to appear on your pages
