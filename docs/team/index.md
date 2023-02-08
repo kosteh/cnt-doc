@@ -24,15 +24,15 @@ Be aware that each contact costs some valuable time of our team. The normal flow
 `WARNING: do not feed these tools with Kadaster specific information or questions !`
 1. Ask your `team collegues` .
 
-If these resources do not lead to an answer the following options are at your service:
+If these resources do not lead to an answer the following options are at your service, we're happy to help you:
 
 |  Channel | Description | Purpose |
 |:-------- |:---------- |:------- |
 | Gitea Pages | [Continuity Services Pages] | The documentation site for "Continuity Services". |
 | Slack | [Channel #cnt] | The Slack community "Continuity Services". Questions may be answered by any Kadaster employee. |
-| Mail | continuiteit@kadaster.nl | For short questions on "Continuity Services". |
+| Mail | [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl) | For short questions on "Continuity Services". |
 | Jira | [Jira Project CNT] | To report issues or requests on "Continuity Services". |
 
-[Channel #cnt]: https://kadaster-it.slack.com/archives/C04KB15UBMK
-[Jira Project CNT]: https://dev.kadaster.nl/jira/projects/PCM
 [Continuity Services Pages]: https://docs.kadaster.nl/cnt/docs
+[Channel #cnt]: https://kadaster-it.slack.com/archives/C04KB15UBMK
+[Jira Project CNT]: https://dev.kadaster.nl/jira/projects/CNT
