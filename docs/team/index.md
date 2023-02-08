@@ -8,14 +8,20 @@ has_toc: false
 
 # Team Continuity Services
 
-## Members
-Team Continuity Services (TCS), do not confuse the abbreviation with CST (Cyber Security Team), consists of the following people:
+## Team members
+Team Continuity Services (TCS), do not confuse the abbreviation with CST (Cyber Security Team), consists of the following team members:
 
-Members:
+Team Members (BOI/IT4ALL):
 - Paul Schluck (Product Owner)
 - Hans Koster
 - To be recruited (Datamanager)
 - To be recruited (Continuity Manager)
+
+Stakeholder (ODR):
+- ? (Product Owner)
+
+Stakeholder (DGV):
+- ? (Product Manager)
 
 ## Contact
 Be aware that each contact costs some valuable time of our team. The normal flow of getting help is:
