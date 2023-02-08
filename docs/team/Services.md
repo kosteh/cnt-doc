@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Contact
+title: Services
 parent: Team
 nav_order: 10
 ---
 
-Slack
 
-Mail
 
