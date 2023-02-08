@@ -3,6 +3,7 @@ layout: default
 title: Team
 nav_order: 10
 has_children: true
+has_toc: false
 ---
 
 # Team Continuity Services
@@ -19,9 +20,9 @@ Members:
 ## Contact
 Be aware that each contact costs some valuable time of our team. The normal flow of getting help is:
 
-1. Use Google or ChatGPT (and others), they are our robotic Internet and AI friends. They know more than we do ;-).  
-WARNING: do not feed these tools with Kadaster specific information or questions !
-1. Ask your team collegues .
+1. Use `Google` or `ChatGPT` (and others), they are our robotic Internet and AI friends. They know more than we do ;-).  
+`WARNING: do not feed these tools with Kadaster specific information or questions !`
+1. Ask your `team collegues` .
 
 If these resources do not lead to an answer the following options are at your service:
 
