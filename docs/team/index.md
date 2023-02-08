@@ -27,10 +27,11 @@ If these resources do not lead to an answer the following options are at your se
 
 |  Channel | Description | Purpose |
 |:-------- |:---------- |:------- |
-| Gitea Pages | https://docs.kadaster.nl/cnt/docs | The documentation site for "Continuity Services". |
+| Gitea Pages | [Continuity Services Pages] | The documentation site for "Continuity Services". |
 | Slack | [Channel #cnt] | The Slack community "Continuity Services". Questions may be answered by any Kadaster employee. |
 | Mail | continuiteit@kadaster.nl | For short questions on "Continuity Services". |
 | Jira | [Jira Project CNT] | To report issues or requests on "Continuity Services". |
 
 [Channel #cnt]: https://kadaster-it.slack.com/archives/C04KB15UBMK
 [Jira Project CNT]: https://dev.kadaster.nl/jira/projects/PCM
+[Continuity Services Pages]: https://docs.kadaster.nl/cnt/docs
