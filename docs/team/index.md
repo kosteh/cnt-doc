@@ -2,6 +2,7 @@
 layout: default
 title: Team
 nav_order: 1
+has_children: true
 ---
 
 # Team Continuity Services
