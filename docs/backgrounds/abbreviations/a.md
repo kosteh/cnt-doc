@@ -11,5 +11,7 @@ nav_order: 1
 |Abbreviation|Meaning|Comment|
 |:---|:---|:---|
 | | | |
+|ABC | Advisory Board Cloud |  |
 |APG | Autoriteit Persoons Gegevens | See [website APG](https://www.autoriteitpersoonsgegevens.nl/). |
+|ASA | Adaptive Security Appliance | Cisco Firewall product. |
 |AVG | Algemene Verordening Gegevensbescherming | See [website APG](https://autoriteitpersoonsgegevens.nl/nl/over-privacy/wetten/algemene-verordening-gegevensbescherming-avg). |
