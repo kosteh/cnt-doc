@@ -8,4 +8,4 @@ permalink: /
 # Hi !
 You have found the documentation site of Continuity Services. Great !
 
-This site is under construction. 
+This site is under construction. Stay tuned !
