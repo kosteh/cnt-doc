@@ -44,7 +44,6 @@ If these resources do not lead to an answer the following options are at your se
 | Mail | [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl) | For short questions regarding *Continuity Services*. |
 | Jira | [Jira Project CNT] | To report issues on or requests for *Continuity Services*. |
 
-## Links
 [Continuity Services Pages]: https://docs.kadaster.nl/cnt/docs
 [Channel #cnt]: https://kadaster-it.slack.com/archives/C04KB15UBMK
 [Jira Project CNT]: https://dev.kadaster.nl/jira/projects/CNT
