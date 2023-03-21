@@ -7,3 +7,9 @@ nav_order: 13
 ---
 
 # M
+
+|Abbreviation|Meaning|Comment|
+|:---|:---|:---|
+| | | |
+|MDR | Managed Detection and Response | See [wikipedia](https://en.wikipedia.org/wiki/Managed_security_service). |
+|MVO | Maatschappelijk Verantwoord Ondernemen | 
