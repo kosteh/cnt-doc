@@ -14,4 +14,5 @@ nav_order: 19
 |SBO| Standby Omgeving | See also KSO. |
 |SIAM | Service Integratie And Management | See [wikipedia](https://en.wikipedia.org/wiki/Service_integration_and_management). |
 |SLR | Single Linear Recording ? | Tape backup ? |
+|SOAR | Security Orchestration Automation and Response | |
 |SOW | Statement of Work | See [wikipedia](https://en.wikipedia.org/wiki/Statement_of_work). |
