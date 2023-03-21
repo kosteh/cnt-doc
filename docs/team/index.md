@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Team
-nav_order: 10
+nav_order: 900
 has_children: true
 has_toc: false
 ---
 
 # Team Continuity Services
+*Team Continuity Services* (abbreviation *TCS*) was born on January 1st, 2023. It was created to centralise all activities to support the Business Continuity of Kadaster. 
+
 
 ## Team members
 Team Continuity Services (TCS), do not confuse the abbreviation with CST (Cyber Security Team), consists of the following team members:
