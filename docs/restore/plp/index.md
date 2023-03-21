@@ -2,8 +2,9 @@
 layout: default
 grand_parent: Restore
 parent: PLP
+has_children: true
 title: Introduction
-nav_order: 100
+nav_order: 200
 ---
 
-# Introduction
+# PLP Restores
