@@ -1,46 +1,50 @@
 ---
 layout: default
 title: Team
-nav_order: 900
 has_children: true
+nav_order: 900
 has_toc: false
 ---
 
 # Team Continuity Services
-*Team Continuity Services* (abbreviation *TCS*) was born on January 1st, 2023. It was created to centralise all activities to support the Business Continuity of Kadaster. 
-
+*Team Continuity Services* (abbreviation *TCS*) was born on January 1st, 2023. It was created to centralise all activities to support the Business Continuity of Kadaster. Team TCS is positioned in department BOI (*Beheer en Ontwikkeling Informatievoorziening*)->IT4ALL.
+ 
+>Please do not confuse the abbreviation TCS with the following abbreviations:  
+>- CST: *Cyber Security Team* (positioned in BOI->IT4ALL)  
+>- TSC: *Test Support Centre* (a former Kadaster team that does not exist exist anymore)  
 
 ## Team members
-Team Continuity Services (TCS), do not confuse the abbreviation with CST (Cyber Security Team), consists of the following team members:
+The team consists of the following members:
 
-Team Members (BOI/IT4ALL):
 - Paul Schluck (Product Owner)
-- Hans Koster
-- To be recruited (Datamanager)
+- Hans Koster (Integration Specialist)
+- Erik Bijsterbosch (Datamanager)
 - To be recruited (Continuity Manager)
 
-Stakeholder (ODR):
+## Stakeholders
+ODR:
 - ? (Product Owner)
 
-Stakeholder (DGV):
+DGV:
 - ? (Product Manager)
 
 ## Contact
-Be aware that each contact costs some valuable time of our team. The normal flow of getting help is:
+We are happy to help you when you have question concerning Continuity. Be aware however that each contact costs some time of our team. The normal flow of getting help is:
 
-1. Use `Google` or `ChatGPT` (and others), they are our robotic Internet and AI friends. They know more than we do ;-).  
+1. Use `Google` or `ChatGPT` (or other robots), they are our robotic Internet and AI friends. They know more than we do ;-).  
 `WARNING: do not feed these tools with Kadaster specific information or questions !`
 1. Ask your `team collegues` .
 
-If these resources do not lead to an answer the following options are at your service, we're happy to help you:
+If these resources do not lead to an answer the following options are at your service:
 
 |  Channel | Description | Purpose |
 |:-------- |:---------- |:------- |
-| Gitea Pages | [Continuity Services Pages] | The documentation site for "Continuity Services". |
-| Slack | [Channel #cnt] | The Slack community "Continuity Services". Questions may be answered by any Kadaster employee. |
-| Mail | [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl) | For short questions on "Continuity Services". |
-| Jira | [Jira Project CNT] | To report issues on or requests for "Continuity Services". |
+| Gitea Pages | [Continuity Services Pages] | The documentation site for *Continuity Services*, you are reading these pages right now. |
+| Slack | [Channel #cnt] | The Slack community "Continuity Services". Questions may be answered by any Kadaster (IT) employee. |
+| Mail | [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl) | For short questions regarding *Continuity Services*. |
+| Jira | [Jira Project CNT] | To report issues on or requests for *Continuity Services*. |
 
+## Links
 [Continuity Services Pages]: https://docs.kadaster.nl/cnt/docs
 [Channel #cnt]: https://kadaster-it.slack.com/archives/C04KB15UBMK
 [Jira Project CNT]: https://dev.kadaster.nl/jira/projects/CNT
