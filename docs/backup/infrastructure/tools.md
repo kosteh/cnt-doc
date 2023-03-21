@@ -2,9 +2,9 @@
 layout: default
 grand_parent: Backup
 parent: Infrastructure
-title: tooling
+title: tools
 nav_order: 100
 ---
 
-# Tooling
+# Tools
 
