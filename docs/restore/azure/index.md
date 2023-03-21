@@ -1,9 +1,9 @@
 ---
 layout: default
-grand_parent: Environments
+grand_parent: Restore
 parent: Restore Test Environment
 title: Azure Restore Test Environment
 nav_order: 10
 ---
 
-# Bla bla Azure
+# Azure Restore Test Environment
