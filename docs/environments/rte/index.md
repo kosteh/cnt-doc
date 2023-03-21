@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Restore Test Omgeving 
+title: Restore Test Environment 
 parent: Environments
+has_children: true
 nav_order: 10
 ---
 
