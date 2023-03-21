@@ -11,4 +11,5 @@ nav_order: 14
 |Abbreviation|Meaning|Comment|
 |:---|:---|:---|
 | | | |
-|NCSC | Nationaal Cyber Security Centrum | See [NCSC site](https://www.ncsc.nl/).
+|NCSC | Nationaal Cyber Security Centrum | See [NCSC site](https://www.ncsc.nl/). |
+|NVA | Network Virtual Appliance | Azure component offering |
