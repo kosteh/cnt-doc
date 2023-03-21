@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Environments 
-nav_order: 30
 has_children: true
+nav_order: 30
 ---
 
 # Environments
