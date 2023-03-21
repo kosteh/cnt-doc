@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Abbreviations
 parent: Backgrounds
+title: Abbreviations
+has_children: true
 nav_order: 999
-has_children: false
 ---
 
 # Abbreviations
