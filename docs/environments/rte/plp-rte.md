@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PLP Restore Test Environment
-parent: Restore Test Environment
 grand_parent: Environments
-nav_order: 10
+parent: Restore Test Environment
+title: PLP Restore Test Environment
+nav_order: 20
 ---
 
 # Bla bla PLP
