@@ -11,4 +11,5 @@ nav_order: 15
 |Abbreviation|Meaning|Comment|
 |:---|:---|:---|
 | | | |
+|ODC | Overheid Data Center | A (dutch) government trusted datacenter implementation. | 
 |ODR | Operatie, Dienstverlening en Registratie | A Kadaster department. |
