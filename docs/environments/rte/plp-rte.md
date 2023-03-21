@@ -1,8 +1,8 @@
 ---
 layout: default
 title: PLP Restore Test Environment
-parent: Environments
-grand_parent: Restore Test Environment
+parent: Restore Test Environment
+grand_parent: Environments
 nav_order: 10
 ---
 
