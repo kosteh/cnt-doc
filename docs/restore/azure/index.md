@@ -1,8 +1,8 @@
 ---
 layout: default
 grand_parent: Restore
-parent: Restore Test Environment
-title: Azure Restore Test Environment
+parent: Azure
+title: Introduction
 nav_order: 10
 ---
 
