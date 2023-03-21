@@ -7,3 +7,5 @@ has_children: true
 ---
 
 # Datavault
+Architecture and component description
+
