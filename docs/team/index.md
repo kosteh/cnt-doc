@@ -40,7 +40,7 @@ If these resources do not lead to an answer the following options are at your se
 |  Channel | Description | Purpose |
 |:-------- |:---------- |:------- |
 | Gitea Pages | [Continuity Services Pages] | The documentation site for *Continuity Services*, you are reading these pages right now. |
-| Slack | [Channel #cnt] | The Slack community "Continuity Services". Questions may be answered by any Kadaster (IT) employee. |
+| Slack | [Channel #cnt] | The Slack community *Continuity Services*. Questions may be answered by any Kadaster (IT) employee. |
 | Mail | [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl) | For short questions regarding *Continuity Services*. |
 | Jira | [Jira Project CNT] | To report issues on or requests for *Continuity Services*. |
 
