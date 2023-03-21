@@ -1,9 +1,9 @@
 ---
 layout: default
-grand_parent: Restore
-parent: Azure
-title: Introduction
-nav_order: 10
+parent: Restore
+title: Azure 
+has_children: true
+nav_order: 100
 ---
 
-# Azure Restore Test Environment
+# Azure Restores
