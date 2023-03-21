@@ -8,4 +8,4 @@ has_children: true
 
 # Introduction
 
-Global environment description
+Global backup environment description
