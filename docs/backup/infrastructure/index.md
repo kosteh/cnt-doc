@@ -7,3 +7,5 @@ has_children: true
 ---
 
 # Introduction
+
+Global environment description
