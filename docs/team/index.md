@@ -7,10 +7,10 @@ has_toc: false
 ---
 
 # Team Continuity Services
-*Team Continuity Services* (abbreviation *TCS*) was born on January 1st, 2023. It was created to centralise all activities to support the Business Continuity of Kadaster. Team TCS is positioned in department BOI (*Beheer en Ontwikkeling Informatievoorziening*)->IT4ALL.
+*Team Continuity Services* (abbreviation *TCS*) was born on January 1st, 2023. It was created to centralise all activities to support the Business Continuity of Kadaster. Team TCS is positioned within department BOI (*Beheer en Ontwikkeling Informatievoorziening*)->*IT4ALL*.
  
 >Please do not confuse the abbreviation TCS with the following abbreviations:  
->- CST: *Cyber Security Team* (positioned in BOI->IT4ALL)  
+>- CST: *Cyber Security Team* (also positioned within *BOI->IT4ALL*)  
 >- TSC: *Test Support Centre* (a former Kadaster team that does not exist exist anymore)  
 
 ## Team members
@@ -19,7 +19,7 @@ The team consists of the following members:
 - Paul Schluck (Product Owner)
 - Hans Koster (Integration Specialist)
 - Erik Bijsterbosch (Datamanager)
-- To be recruited (Continuity Manager)
+- To be recruited (Continuity Manager) => mail us when you are interested in this position !
 
 ## Stakeholders
 ODR:
