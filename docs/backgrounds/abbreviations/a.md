@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Backgrounds
-parent: Abreviations
+parent: Abbreviations
 title: A 
 nav_order: 1
 ---
