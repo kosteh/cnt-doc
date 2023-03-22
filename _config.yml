@@ -20,3 +20,21 @@ mermaid:
   # version: "9.1.3"
   version: "9.4.3"
   # WERKT path: https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.0.2/mermaid.min.js
+
+# Callout definitions
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
