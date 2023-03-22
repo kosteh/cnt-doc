@@ -1,5 +1,5 @@
 title: Continuity Services
-description: General and Specific documentation for Continuity Services
+description: Documentation for Continuity Services
 theme: just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
@@ -10,5 +10,11 @@ logo: "/assets/images/continuity.png"
 
 url: https://kosteh.github.io/cnt-doc
 
-aux_links: # remove if you don't want this link to appear on your pages
+# Remove if you don't want this link to appear on your pages
+aux_links: 
   Continuity Services Docs: https://github.com/kosteh/cnt-doc
+
+# Version of mermaid library for drawing diagrams
+mermaid:
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.0.2"
