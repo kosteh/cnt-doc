@@ -18,4 +18,5 @@ aux_links:
 mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   # version: "10.0.0"
-  path: https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.3/mermaid.min.js
+  # WORKS: path: https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.3/mermaid.min.js
+  path: https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs
