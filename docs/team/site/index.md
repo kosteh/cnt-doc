@@ -27,3 +27,12 @@ A paragraph containing a note
 A paragraph containing a warning
 
 ## Mindmaps
+
+```mermaid
+mindmap
+    [Power]
+        A(Wifi)
+        ::icon(fa fa-wifi)
+        B(Volume)
+        ::icon(fa fa-volume-up)
+```
