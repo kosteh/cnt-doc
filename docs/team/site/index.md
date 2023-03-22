@@ -2,7 +2,7 @@
 layout: default
 parent: Team
 title: Site
-has_children: true
+has_children: false
 nav_order: 900
 ---
 
@@ -26,3 +26,4 @@ A paragraph containing a note
 {: .warning }
 A paragraph containing a warning
 
+## Mindmaps
