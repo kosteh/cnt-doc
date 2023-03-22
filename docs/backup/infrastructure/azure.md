@@ -10,12 +10,15 @@ nav_order: 300
 
 ```mermaid
 ---
-title: Node dit lijkt wel wat
+title: Dit is een titel
 ---
 graph LR
       A --- B
       B<-->C[fa:fa-database Postgres]
       B<-->D(fa:fa-server Backupserver)
+---
+title: Onderschrift
+---
 ```
 
 ```mermaid
