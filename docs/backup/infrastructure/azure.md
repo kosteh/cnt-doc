@@ -15,7 +15,8 @@ graph TD;
     B-->D;
     C-->D;
 ```
-```
+
+```mermaid
 mindmap
   root((mindmap))
     Origins
