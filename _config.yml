@@ -17,5 +17,6 @@ aux_links:
 # Version of mermaid library for drawing diagrams
 mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "10.0.0"
+  # version: "10.0.0"
   # path: https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.0.2/mermaid.min.js
+  path: https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs
