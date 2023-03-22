@@ -16,9 +16,6 @@ graph LR
       A --- B
       B<-->C[fa:fa-database Postgres]
       B<-->D(fa:fa-server Backupserver)
----
-title: Onderschrift
----
 ```
 
 ```mermaid
