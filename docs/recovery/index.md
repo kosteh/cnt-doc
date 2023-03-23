@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Recovery
+title: Disaster recovery
 has_children: true
 nav_order: 300
 ---
 
-# Recovery 
-Recovery description
+# Disaster recovery 
+Disaster ecovery description
