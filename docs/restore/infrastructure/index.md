@@ -51,11 +51,3 @@ The current status of the RTO environment is:
 - The PLS-RTO enviroment is currently in the design phase. The PLS platform will be upgraded in the coming months to support this new environment. 
 - The RTO network connection between PLP-RTO and PLS-RTO is also in the design phase.
 
-## Requesting access to the PLP-RTO environment
-The PLP-RTO environment has access restrictions which are imposed by the nature of the environment. 
-
-
-Production level data.
-
-
-## Requesting access to the PLS-RTO environment
