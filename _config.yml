@@ -3,11 +3,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Continuity Services
-description: Documentation for Continuity Services
+title: "Continuity Services"
+description: "Documentation for Continuity Services"
 theme: just-the-docs
 url: "https://kosteh.github.io/cnt-doc/docs" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cnt-doc/docs" # the subpath of your site, e.g. /blog
 repository: kosteh/cnt-docs # for github-metadata
 
 # Color scheme supports "light" (default) and "dark"
