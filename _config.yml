@@ -19,9 +19,6 @@ logo: "/assets/images/continuity.png"
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/continuity.png"
 
-# Set the base_url
-url: https://kosteh.github.io/cnt-doc
-
 # Remove if you don't want this link to appear on your pages
 aux_links: 
   Continuity Services Docs: https://github.com/kosteh/cnt-doc
