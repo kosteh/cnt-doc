@@ -14,4 +14,7 @@ Creating backups is not enough to assure the Business Continuity of a company li
 4. TCS has to **test this Chain Recovery Plan** in the [RTO environment](infrastructure) regularly (say once per year) by orchestrating the recovery of the required Business Services.
 5. TCS has to **orchestrate the tests to recover the Kadaster business** after a potential disaster, like a successful ransomware attack.
 
-# 
+# URLs
+URL {{site.url}}
+
+BaseURL {{site.baseurl}}
