@@ -5,37 +5,13 @@ has_children: true
 nav_order: 200
 ---
 
-# Restore
-Introduction
+# Restoring datasets
+Creating backups is not enough to assure the Business Continuity of a company like Kadaster. A number of tests are required to achieve this:
 
-```mermaid
-flowchart TD
-    direction LR
-    subgraph PLP
-        subgraph PLP-ONT["ONT\nenvironment"]
-        end
-        subgraph PLP-INT["INT\nenvironment"]
-        end
-        subgraph PLP-FTO["FTO\nenvironment"]
-        end
-        subgraph PLP-RTO["RTO\nenvironment"]
-        end
-        subgraph PLP-PROD["PROD\nenvironment"]
-        end
-    end
-    subgraph AZURE
-        subgraph AZ-TEST["TEST\nsubscriptions"]
-        end
-        subgraph AZ-RTO["RTO\nsubscriptions"]
-        end
-        subgraph AZ-PROD["PROD\nsubscriptions"]
-        end
-    end
+1. Each DevOps team should create and maintain a **Recovery Plan** for each **Business Service**. 
+2. A DevOps team has to **test this Recovery Plan** in the [RTO environment](infrastructure) regularly (say 2 times per year) .
+3. Team Continuity Services (TCS) should create and maintain a **Chain Recovery Plan** for each **Application Chain**.
+4. TCS has to **test this Chain Recovery Plan** in the [RTO environment](infrastructure) regularly (say once per year) by orchestrating the recovery of the required Business Services.
+5. TCS has to **orchestrate the tests to recover the Kadaster business** after a potential disaster, like a succeeded ransomware attack.
 
-    classDef BLUE fill:#109AEB
-    PLP-ONT <--> AZ-TEST
-    PLP-INT <--> AZ-TEST
-    PLP-FTO <--> AZ-TEST
-    PLP-RTO:::BLUE <--> AZ-RTO:::BLUE
-    PLP-PROD <--> AZ-PROD
-```
+# 
