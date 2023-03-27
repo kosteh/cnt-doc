@@ -3,18 +3,18 @@ layout: default
 parent: Restore
 title: Infrastructure
 nav_order: 100
-has_children: true
+has_children: false
 ---
 
 # Infrastructure
 
 ## Introduction
-The infrastructure to support *restore tests* is named the **Restore Test Omgeving (RTO)**. This environment is available at the **PLP platform (named PLP-RTO)** as well as at the **Azure PLS platform (named PLS-RTO)**.
+The infrastructure to support *restore tests* is named the **Restore Test Omgeving (RTO)**. This environment is/will be made available at the **PLP platform** (named **PLP-RTO**) and the **Azure PLS platform** (named **PLS-RTO**). 
 
 ```mermaid
 flowchart TD
     direction LR
-    subgraph PLP
+    subgraph PLP["PLP (on-premise)"]
         subgraph PLP-ONT["ONT\nenvironment"]
         end
         subgraph PLP-INT["INT\nenvironment"]
@@ -26,7 +26,8 @@ flowchart TD
         subgraph PLP-PROD["PROD\nenvironment"]
         end
     end
-    subgraph AZURE
+    
+    subgraph PLS["PLS (Azure)"]
         subgraph AZ-TEST["TEST\nsubscriptions"]
         end
         subgraph AZ-RTO["RTO\nsubscriptions"]
@@ -36,12 +37,25 @@ flowchart TD
     end
 
     classDef BLUE fill:#109AEB
+    classDef BLUE-DASH fill:#109AEB,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 2 2
+
     PLP-ONT <--> AZ-TEST
     PLP-INT <--> AZ-TEST
     PLP-FTO <--> AZ-TEST
-    PLP-RTO:::BLUE <--> AZ-RTO:::BLUE
+    PLP-RTO:::BLUE <-.->|RTO network| AZ-RTO:::BLUE-DASH
     PLP-PROD <--> AZ-PROD
 ```
 
-## Requesting access to the PLP-RTO
-Unlike the normal PLP selfservice  
+The current status of the RTO environment is:
+- The PLP-RTO environment is functionally available and usable. *Access to this new environment must, however, be requested.*
+- The PLS-RTO enviroment is currently in the design phase. The PLS platform will be upgraded in the coming months to support this new environment. 
+- The RTO network connection between PLP-RTO and PLS-RTO is also in the design phase.
+
+## Requesting access to the PLP-RTO environment
+The PLP-RTO environment has access restrictions which are imposed by the nature of the environment. 
+
+
+Production level data.
+
+
+## Requesting access to the PLS-RTO environment
