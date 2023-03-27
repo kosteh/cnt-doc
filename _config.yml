@@ -6,7 +6,7 @@
 title: Continuity Services
 description: Documentation for Continuity Services
 theme: just-the-docs
-url: "https://kosteh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kosteh.github.io/cnt-doc/docs" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: kosteh/cnt-docs # for github-metadata
 
