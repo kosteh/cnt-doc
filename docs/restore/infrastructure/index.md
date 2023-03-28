@@ -39,11 +39,11 @@ flowchart TD
     classDef BLUE fill:#109AEB
     classDef BLUE-DASH fill:#109AEB,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 2 2
 
-    PLP-ONT <--> AZ-TEST
-    PLP-INT <--> AZ-TEST
-    PLP-FTO <--> AZ-TEST
-    PLP-RTO:::BLUE <-.->|RTO network| AZ-RTO:::BLUE-DASH
-    PLP-PROD <--> AZ-PROD
+    PLP-ONT <-->|"ONT network\nsegment"| AZ-TEST
+    PLP-INT <-->|"INT network\nsegment"| AZ-TEST
+    PLP-FTO <-->|"FTO network\nsegment"| AZ-TEST
+    PLP-RTO:::BLUE <-.->|"RTO network\nsegment"| AZ-RTO:::BLUE-DASH
+    PLP-PROD <-->|"PROD network\nsegment"| AZ-PROD
 ```
 
 The current status of the RTO environment is:
