@@ -28,14 +28,14 @@ More information about the PLP platform can be found on the [PLP documentation s
 ## Purpose of the RTO environment
 The PLP environment RTO (Restore Test Omgeving) is a [new PLP environment](/docs/restore/infrastructure). The purpose of this environment is unfortunately not described on the [PLP documentation site](https://documentatie.plp.kadaster.nl/).
 
-{: .note }
+{: .highlight  }
 The RTO has been designed for a very specific purpose: to test *Point-In-Time restores* of production backups of a Business Service or a chain of Business Services.  
 
 {: .warning }
 These backups may contain (privacy) sensitive data. Because of this, the RTO is designated as a *restricted environment*. Only DevOps team members involved in restore tests are allowed to access this environment, to deploy application components, to have backups restored and to test the restore as a whole. The *\<customer\>-rto-adm* role is therefore reserved for [TCS team members](/docs/team) only.
 
-## Request PLP-RTO authorization process
-Ask the product owner (PO) responsible for the Business Service \<customer\> to:
+## How to request the PLP-RTO \<customer\>-rto-dep role
+When you have to perform  the product owner (PO) responsible for the Business Service \<customer\> to request :
 1. Create an e-mail for [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl)
 2. Subject: PLP-RTO deployment role authorization request
 3. The body of the mail should contain the following information:  
@@ -46,21 +46,4 @@ Ask the product owner (PO) responsible for the Business Service \<customer\> to:
 
 The TCS team will execute your request as soon as possible and will send a an e-mail reply as soon as possible to the requester (the Product Owner) and the DevOps team member it concerns.
 
-
-
-
-
-
-LTB desk
-
-
-
-
-
-Business Service 
-PO
-Herstelplan link
-
-
-Restricted for deployment is 1
-Applicatie gebruik (https:// appl toegang)
+```
