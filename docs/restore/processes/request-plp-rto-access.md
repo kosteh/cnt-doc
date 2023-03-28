@@ -6,7 +6,7 @@ nav_order: 100
 has_children: false
 ---
 
-# How to request access to the RTO 
+# Request access to a PLP RTO \<customer\>  
 
 ## Introduction to the PLP Portal
 
@@ -25,7 +25,7 @@ Gives DevOps teams members authorization to request, view or delete PLP platform
 More information about the PLP platform can be found on the [PLP documentation site](https://documentatie.plp.kadaster.nl/).
 
 ## The RTO environment
-The PLP environment RTO (Restore Test Omgeving) is a new PLP environment.
+The PLP environment RTO (Restore Test Omgeving) is a [new PLP environment](/docs/restore/infrastructure).
 
 {: .highlight }
 The RTO has a specific purpose: to test Point-In-Time restores of production backup of a Business Service or a chain of Business Services. These backups may contain (privacy) sensitive data.
