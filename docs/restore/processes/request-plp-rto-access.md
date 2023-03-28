@@ -1,5 +1,6 @@
 ---
 layout: default
+grand_parent: Restore
 parent: Processes
 title: Request PLP RTO Access
 nav_order: 100
@@ -28,6 +29,11 @@ More information about the PLP platform can be found on the [PLP documentation s
 The PLP environment RTO (Restore Test Omgeving) is a [new PLP environment](/docs/restore/infrastructure).
 
 {: .highlight }
-The RTO has a specific purpose: to test Point-In-Time restores of production backup of a Business Service or a chain of Business Services. These backups may contain (privacy) sensitive data.
+The RTO has a specific purpose: to test Point-In-Time restores of production backup of a Business Service or a chain of Business Services. These backups may contain (privacy) sensitive data. 
 
-Because of that 
+{: .warning }
+Because of the (privacy) sensitive data, the RTO is a restricted environment. Only DevOps team members involved in restore tests are allowed to access this environment. The *\<customer\>-rto-adm* role is therefore reserved for TCS team members only.
+
+## Process
+
+
