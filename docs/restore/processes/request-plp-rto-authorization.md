@@ -39,9 +39,9 @@ Ask the product owner (PO) responsible for the Business Service \<customer\> to:
 1. Create an e-mail for [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl)
 2. Subject: PLP-RTO deployment role authorization request
 3. The body of the mail should contain the following information:  
-  -- Customer: *the name of the PLP customer for which the RTO deployment role is requested*  
-  -- Name: *the full name of the DevOps team member that needs the RTO deployment role*  
-  -- Accountname: *the AD short accountname*  
+  - Customer: *the name of the PLP customer for which the RTO deployment role is requested*  
+  - Name: *the full name of the DevOps team member that needs the RTO deployment role*  
+  - Accountname: *the AD short accountname*  
 4. Send the mail.
 
 The TCS team will execute your request as soon as possible and will send a an e-mail reply as soon as possible to the requester (the Product Owner) and the DevOps team member it concerns.
