@@ -34,7 +34,7 @@ The RTO has been designed for a very specific purpose: to test *Point-In-Time re
 {: .warning }
 These backups may contain (privacy) sensitive data. Because of this, the RTO is designated as a *restricted environment*. Only DevOps team members involved in restore tests are allowed to access this environment, to deploy application components, to have backups restored and to test the restore as a whole. The *\<customer\>-rto-adm* role is therefore reserved for [TCS team members](/docs/team) only.
 
-# Request RTO authorization
+## Request PLP-RTO authorization process
 Ask the product owner (PO) responsible for the Business Service \<customer\> to:
 1. Create an e-mail for [continuiteit@kadaster.nl](mailto:continuiteit@kadaster.nl)
 2. Subject: PLP-RTO deployment role authorization request
